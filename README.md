@@ -4,7 +4,7 @@
 
 ### About Me
 - ⏱ I'm programming since **2019**
-- 🔧 I am **front-end** and **back-end** developer
+- 🔧 I'm **front-end** and **back-end** developer
 
 
 ### My Social Media
