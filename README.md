@@ -2,17 +2,6 @@
 
 <br />
 
-### About Me
-- ⏱ I'm programming since **2019**
-- 🔧 I'm **front-end** and **back-end** developer
-
-
-### My Social Media
-- [**YouTube**][yt]
-- [**My Website**][website]
-- [**Linkedin**][ln]
-- [**Instagram**][ig]
-
 ### Languages and Tools
 <img align="left" width="45px" src="https://github.com/dirty4lien/dirty4lien/blob/main/images/icons8-css3-512.png?raw=true"/>
 <img align="left" width="45px" src="https://github.com/dirty4lien/dirty4lien/blob/main/images/icons8-html-5-512.png?raw=true"/>
