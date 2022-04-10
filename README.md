@@ -3,8 +3,6 @@
 <br />
 
 ### Languages and Tools
-<img align="left" width="45px" src="https://github.com/dirty4lien/dirty4lien/blob/main/images/icons8-css3-512.png?raw=true"/>
-<img align="left" width="45px" src="https://github.com/dirty4lien/dirty4lien/blob/main/images/icons8-html-5-512.png?raw=true"/>
 <img align="left" width="45px" src="https://github.com/dirty4lien/dirty4lien/blob/main/images/icons8-java-512.png?raw=true"/>
 <img align="left" width="45px" src="https://github.com/dirty4lien/dirty4lien/blob/main/images/icons8-github-512.png?raw=true"/>
 <img align="left" width="45px" src="https://github.com/dirty4lien/dirty4lien/blob/main/images/icons8-react-512.png?raw=true"/>
@@ -21,6 +19,12 @@
 <img align="left" width="45px" src="https://github.com/dirty4lien/dirty4lien/blob/main/images/icons8-c++-512.png?raw=true"/>
 <img align="left" width="45px" src="https://github.com/dirty4lien/dirty4lien/blob/main/images/linux.png?raw=true"/>
 
+</br>
+</br>
+
+### I hate
+<img align="left" width="45px" src="https://github.com/dirty4lien/dirty4lien/blob/main/images/icons8-css3-512.png?raw=true"/>
+<img align="left" width="45px" src="https://github.com/dirty4lien/dirty4lien/blob/main/images/icons8-html-5-512.png?raw=true"/>
 
 [website]: https://spencerw.pl/
 [yt]: https://spencerw.pl/
