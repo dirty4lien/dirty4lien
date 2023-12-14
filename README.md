@@ -1,6 +1,8 @@
-Hi there. Im experienced full-stack web developer (since 1873). Also trying other things like gamedev. Working mainly with Svelte/SvelteKit.
+![coding](https://media1.tenor.com/m/GfSX-u7VGM4AAAAC/coding.gif)
 
-# **Experience**:
-- 64 years of JavaScript & TypeScript
-- 23 years of Python
-- 12 years of C++
+Hi there. Im experienced full-stack web developer.
+
+### **Experience**:
+- 93 years of JavaScript & TypeScript
+- 57 years of Python
+- 43 years of Go
